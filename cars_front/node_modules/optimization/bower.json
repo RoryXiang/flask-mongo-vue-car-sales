@@ -1,0 +1,31 @@
+{
+  "name": "optimization",
+  "version": "1.0.0",
+  "description": "Optimization library",
+  "keywords": [
+    "optimizarion",
+    "differential",
+    "equations",
+    "numerical",
+    "methods",
+    "analisys"
+  ],
+  "main": [
+    "dist/optimization.js",
+    "dist/optimization.min.js"
+  ],
+  "authors": [
+    "Jefferson Hernández"
+  ],
+  "homepage": "https://github.com/mljs/optimization",
+  "license": "MIT",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "ignore": [
+    "/*",
+    "!dist/*"
+  ]
+}
